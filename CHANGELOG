@@ -1,0 +1,17 @@
+Changelog
+=========
+
+- https://dwm.suckless.org/patches/fullgaps/dwm-fullgaps-6.4.diff
+- https://github.com/1riz/dwm/commit/8d32e3eb4c6a2cbc7b36a919212cbf56d30cce47
+
+- https://dwm.suckless.org/patches/statuspadding/dwm-statuspadding-6.3.diff
+- https://github.com/1riz/dwm/commit/c76f9f95f848511825725e5f375c527be30b3a4e
+
+- https://dwm.suckless.org/patches/alwayscenter/dwm-alwayscenter-20200625-f04cac6.diff
+- https://github.com/1riz/dwm/commit/bba2026f407eefa9b2563cceee32ff78900279b5
+
+- https://dwm.suckless.org/patches/centretitle/dwm-centretitle-20200907-61bb8b2.diff
+- https://github.com/1riz/dwm/commit/f5638503d3248d938e95d7d171c64450164592c5
+
+- https://dwm.suckless.org/patches/push/dwm-push_no_master-6.4.diff
+- https://github.com/1riz/dwm/commit/3579616e282d255fde9601c292638d2983cdb635
